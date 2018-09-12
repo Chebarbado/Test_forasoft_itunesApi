@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Test_forasoft_itunesApi</string>
+    <string name="art_name">Artist Name</string>
+    <string name="album">Collection name</string>
+    <string name="track_count">Track count</string>
+</resources>
